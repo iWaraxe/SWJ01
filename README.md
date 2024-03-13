@@ -1,5 +1,5 @@
 # Training topics:  
-
+## Rules of the training [https://coherentsolutions.sharepoint.com/:w:/s/training-center/ETVnSKs6hl9MspwFmHZpGiwBhAWeIQccIqm64Kj8oNpFyQ]
 1. Unit testing (Junit5, TestNG)  
 2. Locators (xpath, css)  
 3. Selenium WebDriver (overview, api)  
@@ -23,15 +23,17 @@ All tasks have the answers inside the materials provided for each task. If a tra
 
 ## Software
 
-1. Please install Java SDK (Open JDK 21 version) and IntelliJ IDEA Community Edition.
-2. Install Maven.
-3. Install Mozilla Firefox and Google Chrome browsers and​ Geckodriver​ + ​Chromedriver​ for them.​
+1. Please install Java SDK (Open JDK 21 version [https://jdk.java.net/archive/]) and IntelliJ IDEA Community Edition [https://www.jetbrains.com/idea/download/#section=windows].
+2. Install Maven [https://maven.apache.org/download.cgi].
+3. Install Mozilla Firefox and Google Chrome browsers and​ Geckodriver [https://github.com/mozilla/geckodriver/releases]​ + ​Chromedriver [https://googlechromelabs.github.io/chrome-for-testing/]​ for them.​
 
 ## Task 10 Unit Testing (JUnit)
+### Introduction video
+​Please, watch introduction video: [https://coherentsolutions.sharepoint.com/:v:/s/training-center/ERvr7QT-T5xDgagrTJ4j0IcBbX3YQC3wU4nOFIo5a1Lvyw?e=c0vUqE]
 
 ### JUnit
 JUnit is a unit-testing framework. JUnit 5 ​is the next generation of JUnit, it includes the best from all existing unit-testing frameworks. JUnit 5 wiki provides a detailed description of the framework. 
-(JUnit wiki) [http://junit.org/junit5/docs/current/user-guide/]
+JUnit wiki: [http://junit.org/junit5/docs/current/user-guide/]
 
 Download the project and refer to the wiki page - complete Task 10, described in this document.
 
